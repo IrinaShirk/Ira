@@ -1,2 +1,2 @@
-table syslogSrcType = "/opt/IBM/tivoli/netcool/omnibus/probes/linux2x86/Huawei/syslog-SrcType.lookup"
+table syslogSrcType = "//netcoouawei/syslog-SrcType.lookup"
 
